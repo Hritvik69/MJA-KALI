@@ -1,0 +1,482 @@
+# ASTRO-KALI
+### Vedic Astrology Intelligence Platform
+
+Status: ACTIVE DEVELOPMENT
+Version: 0.3 Alpha
+Project Owner: Hritvik Yadav (HK)
+
+---
+
+# PROJECT VISION
+
+Astro-KALI is not intended to be a normal astrology application.
+
+The goal is to create an AI-powered Vedic Astrology Intelligence Platform capable of:
+
+- Generating accurate Vedic charts
+- Applying thousands of classical astrology rules
+- Explaining every prediction
+- Supporting AI analysis
+- Supporting local LLMs
+- Supporting cloud APIs
+- Multi-person analysis
+- Group analysis
+- Research mode
+- Transit forecasting
+- Timeline simulation
+- Explainable reasoning
+
+The system must never produce random astrology text.
+
+Every prediction must be traceable to actual chart calculations and rules.
+
+---
+
+# CURRENT PROJECT STATUS
+
+Overall Completion:
+
+[██████░░░░░░░░░░░░] 30%
+
+Estimated Completion:
+Q1 2027
+
+Current Stage:
+Core Infrastructure Build
+
+---
+
+# COMPLETED
+
+## Infrastructure
+
+✔ Repository Created
+
+✔ Frontend UI Concepts
+
+✔ Project Architecture Planning
+
+✔ Development Roadmap
+
+✔ Module Definitions
+
+✔ Technology Stack Selection
+
+✔ AI Mode Architecture
+
+Supports:
+
+- Local LLM
+- Ollama
+- API Models
+- Auto Fallback
+
+---
+
+## UI Design
+
+Completed Mockups:
+
+✔ Authentication Screen
+
+✔ Dashboard
+
+✔ Astrology Workspace
+
+✔ Chat Interface
+
+✔ People & Charts
+
+✔ Intelligence Core
+
+✔ AI Assistant Layout
+
+✔ Navigation System
+
+---
+
+## Research & Planning
+
+✔ PyJHora Evaluation
+
+✔ Astrology Repository Research
+
+✔ Rule Engine Planning
+
+✔ Confidence System Planning
+
+✔ Explainability Planning
+
+✔ Multi-Person Analysis Design
+
+✔ Research Lab Design
+
+---
+
+# IN PROGRESS
+
+## Phase 01
+
+Chart Engine
+
+Status:
+IN DEVELOPMENT
+
+Goals:
+
+- Connect PyJHora
+- Generate D1
+- Generate D2
+- Generate D3
+- Generate D4
+- Generate D7
+- Generate D9
+- Generate D10
+- Generate D12
+- Generate D16
+- Generate D20
+- Generate D24
+- Generate D27
+- Generate D30
+- Generate D40
+- Generate D45
+- Generate D60
+
+Expected Completion:
+
+2-3 Weeks
+
+---
+
+## Phase 02
+
+Chart Database
+
+Status:
+NOT STARTED
+
+Goals:
+
+- Save Profiles
+- Save Charts
+- Version Charts
+- Chart Search
+- Profile Management
+
+Expected Completion:
+
+1 Week
+
+---
+
+## Phase 03
+
+Rule Engine
+
+Status:
+NOT STARTED
+
+Goals:
+
+- Import Classical Rules
+- Import Repository Rules
+- Rule Parser
+- Rule Validator
+- Rule Execution Engine
+
+Expected Completion:
+
+4-6 Weeks
+
+---
+
+## Phase 04
+
+Prediction Engine
+
+Status:
+NOT STARTED
+
+Goals:
+
+- Match Rules
+- Generate Findings
+- Score Findings
+- Calculate Confidence
+- Generate Timeline Events
+
+Expected Completion:
+
+3 Weeks
+
+---
+
+## Phase 05
+
+AI Reasoning Layer
+
+Status:
+NOT STARTED
+
+Goals:
+
+- Local LLM Support
+- API LLM Support
+- Explain Predictions
+- Answer Questions
+- Summarize Charts
+
+Expected Completion:
+
+2 Weeks
+
+---
+
+## Phase 06
+
+Explainable Intelligence
+
+Status:
+NOT STARTED
+
+Example:
+
+Prediction:
+Career Growth
+
+Confidence:
+84%
+
+Generated From:
+
+Rule #412
+Rule #981
+Rule #1502
+
+Supporting Factors:
+
+- Strong 10th House
+- Benefic Jupiter Aspect
+- D10 Confirmation
+
+Expected Completion:
+
+2 Weeks
+
+---
+
+## Phase 07
+
+People & Groups
+
+Status:
+NOT STARTED
+
+Goals:
+
+- Family Groups
+- Friend Groups
+- Team Analysis
+- Compatibility Analysis
+- Group Dynamics
+
+Expected Completion:
+
+2 Weeks
+
+---
+
+## Phase 08
+
+Transit Engine
+
+Status:
+NOT STARTED
+
+Goals:
+
+- Daily Predictions
+- Weekly Predictions
+- Monthly Predictions
+- Yearly Predictions
+- Custom Year Forecasts
+
+Expected Completion:
+
+3 Weeks
+
+---
+
+## Phase 09
+
+Research Laboratory
+
+Status:
+NOT STARTED
+
+Goals:
+
+Research Query Example:
+
+Show all charts where:
+
+- Mars Exalted
+- Jupiter in 9th
+- Business Score > 85
+- Age 30-50
+
+Expected Completion:
+
+4 Weeks
+
+---
+
+## Phase 10
+
+Pattern Discovery
+
+Status:
+NOT STARTED
+
+Goals:
+
+Analyze thousands of charts.
+
+Detect:
+
+- New correlations
+- Statistical patterns
+- Emerging combinations
+
+Rules proposed by AI must require:
+
+HUMAN APPROVAL
+
+Expected Completion:
+
+6 Weeks
+
+---
+
+## Phase 11
+
+Public Platform
+
+Status:
+NOT STARTED
+
+Goals:
+
+- User Accounts
+- Authentication
+- API Access
+- Subscription Layer
+- Public Deployment
+
+Expected Completion:
+
+4 Weeks
+
+---
+
+# CORE PRINCIPLES
+
+Astro-KALI MUST:
+
+✔ Use real chart calculations
+
+✔ Use actual astrology rules
+
+✔ Show reasoning
+
+✔ Show confidence
+
+✔ Support local AI
+
+✔ Support cloud AI
+
+✔ Remain explainable
+
+---
+
+# ASTRO-KALI FORMULA
+
+Chart Data
+
+↓
+
+Rule Engine
+
+↓
+
+Evidence Collection
+
+↓
+
+Confidence Scoring
+
+↓
+
+AI Reasoning
+
+↓
+
+Human Explanation
+
+↓
+
+Prediction
+
+---
+
+# TARGET RELEASES
+
+Alpha:
+Q4 2026
+
+Beta:
+Q1 2027
+
+Public Launch:
+Q2 2027
+
+---
+
+# SUCCESS CRITERIA
+
+The project is considered complete when:
+
+1. Charts are generated correctly.
+
+2. Rules execute automatically.
+
+3. Predictions cite rule sources.
+
+4. AI can explain predictions.
+
+5. Users can chat with charts.
+
+6. Groups can be analyzed.
+
+7. Transit forecasting works.
+
+8. Research mode works.
+
+9. Local LLM mode works.
+
+10. Public users can access the platform.
+
+---
+
+Current Priority:
+
+PHASE 01
+PYJHORA INTEGRATION
+
+DO NOT BUILD DUMMY FEATURES.
+
+DO NOT FAKE PREDICTIONS.
+
+DO NOT HARDCODE ASTROLOGY RESULTS.
+
+ALL OUTPUT MUST COME FROM REAL CHART DATA.
