@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🔮 ASTRO-KALI
+# 🔮 MJA-I-KALI
+
+# Multi Joint Artificial Intelligence  
 
 ### AI-Powered Vedic Astrology Intelligence Platform
 
